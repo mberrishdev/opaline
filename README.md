@@ -1,18 +1,30 @@
-# Opaline releases
+# Opaline
 
-This repository only hosts **release builds** of Opaline, a clipboard manager for Windows 10 and 11.
-The source code is not public.
+A clipboard manager and **Actions** palette for Windows 10 and 11, with a liquid glass look.
+This repository hosts **release builds** only.
 
-## Download
+![Opaline Actions](.github/assets/actions-smart-search.png)
 
-Open the latest release and download the zip for your PC:
+## Why
 
-- `Opaline-<version>-win-x64.zip`: most Windows PCs (Intel or AMD)
-- `Opaline-<version>-win-arm64.zip`: ARM PCs (Surface, Snapdragon)
+I love [Jolt](https://usejolt.app/), but it doesn't support Windows yet, so I built Opaline for my own use and for my friends.
+**When Jolt supports Windows, please move to Jolt.** Thanks to [Insane Arts](https://insanearts.io/) for making it.
 
-Unzip and run `Opaline.exe`. It stays in the system tray. Press **Ctrl+Shift+V** to open it.
+## Get it
 
-## Updates
+Download the zip for your PC from the [latest release](https://github.com/mberrishdev/opaline/releases/latest), unzip it and run `Opaline.exe`.
+It updates itself.
 
-Opaline checks this repository for new versions about once a day.
-You can install updates from **Settings → Updates**.
+- **Ctrl+Shift+V**: clipboard history
+- **Ctrl+Alt+F**: Actions for the app you're in (menus, shortcuts, tabs, window layouts, media)
+
+Both shortcuts can be changed in Settings.
+
+| Clipboard | Actions |
+| --- | --- |
+| ![Clipboard](.github/assets/layout-studio.png) | ![Actions](.github/assets/actions-palette.png) |
+
+## Bugs and ideas
+
+Found a bug or want a feature? [Open an issue](https://github.com/mberrishdev/opaline/issues/new/choose).
+For bugs, attach the log from **Settings → About → Open logs** if you can.
