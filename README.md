@@ -3,7 +3,7 @@
 A clipboard manager and **Actions** palette for Windows 10 and 11, with a liquid glass look.
 This repository hosts **release builds** only.
 
-![Opaline Actions](.github/assets/actions-smart-search.png)
+![Opaline](.github/assets/layout-studio.png)
 
 ## Why
 
@@ -20,9 +20,12 @@ It updates itself.
 
 Both shortcuts can be changed in Settings.
 
-| Clipboard | Actions |
+**Smart search** is powered by [TypeSafe](https://typesafe.ai)'s **Jev** model: describe what you want, like
+"put two pages side by side" or "the link I copied in Chrome yesterday". What you copied is never sent.
+
+| Smart search in the clipboard | Smart search in Actions |
 | --- | --- |
-| ![Clipboard](.github/assets/layout-studio.png) | ![Actions](.github/assets/actions-palette.png) |
+| ![Smart search in the clipboard](.github/assets/clipboard-smart-search.png) | ![Smart search in Actions](.github/assets/actions-smart-search.png) |
 
 ## Bugs and ideas
 
