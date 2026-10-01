@@ -1,6 +1,6 @@
 # Opaline
 
-A clipboard manager and **Actions** palette for Windows 10 and 11, with a liquid glass look.
+A clipboard manager, **Actions** palette and **launcher** for Windows 10 and 11, with a liquid glass look.
 This repository hosts **release builds** only.
 
 ![Opaline](.github/assets/layout-studio.png)
@@ -12,20 +12,29 @@ I love [Jolt](https://usejolt.app/), but it doesn't support Windows yet, so I bu
 
 ## Get it
 
-Download the zip for your PC from the [latest release](https://github.com/mberrishdev/opaline/releases/latest), unzip it and run `Opaline.exe`.
-It updates itself.
+Download the zip for your PC from the [latest release](https://github.com/mberrishdev/opaline/releases/latest) (about 15 MB),
+unzip it and run `Opaline.exe`. It updates itself.
 
-- **Ctrl+Shift+V**: clipboard history
-- **Ctrl+Alt+F**: Actions for the app you're in (menus, shortcuts, tabs, window layouts, media)
+## What it does
 
-Both shortcuts can be changed in Settings.
+- **Ctrl+Shift+V: clipboard history.** Text, links, images, files and more, in one of four layouts.
+  Passwords and API keys show as `***` until you press **Ctrl+H**.
+- **Ctrl+Alt+F: Actions** for the app you're in: its menus and shortcuts, browser tabs, window layouts
+  (halves, corners, thirds, other screen) and media keys. Three looks: Palette, Bar and Command.
+- **Alt+Space: launcher and window switcher.** Switch to any open window (**Shift+Enter** puts it side by side
+  with the app you were in) or open any app.
+
+All shortcuts can be changed in Settings.
 
 **Smart search** is powered by [TypeSafe](https://typesafe.ai)'s **Jev** model: describe what you want, like
-"put two pages side by side" or "the link I copied in Chrome yesterday". What you copied is never sent.
+"put two pages side by side", "the link I copied in Chrome yesterday" or "open my music app".
+What you copied and your window titles are never sent.
 
-| Smart search in the clipboard | Smart search in Actions |
+| Smart search in the clipboard | Launcher and window switcher |
 | --- | --- |
-| ![Smart search in the clipboard](.github/assets/clipboard-smart-search.png) | ![Smart search in Actions](.github/assets/actions-smart-search.png) |
+| ![Smart search in the clipboard](.github/assets/clipboard-smart-search.png) | ![Launcher](.github/assets/launcher.png) |
+| **Actions** | **Smart search in Actions** |
+| ![Actions](.github/assets/actions-palette.png) | ![Smart search in Actions](.github/assets/actions-smart-search.png) |
 
 ## Bugs and ideas
 
