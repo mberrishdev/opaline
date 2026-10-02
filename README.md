@@ -5,6 +5,8 @@ This repository hosts **release builds** only.
 
 ![Opaline](.github/assets/layout-studio.png)
 
+▶ **[Watch the 24-second video](.github/assets/opaline-video.mp4)** · [vertical cut](.github/assets/opaline-video-vertical.mp4)
+
 ## Why
 
 I love [Jolt](https://usejolt.app/), but it doesn't support Windows yet, so I built Opaline for my own use and for my friends.
