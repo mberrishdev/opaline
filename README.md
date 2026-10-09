@@ -15,7 +15,8 @@ I love [Jolt](https://usejolt.app/), but it doesn't support Windows yet, so I bu
 ## Get it
 
 Download the zip for your PC from the [latest release](https://github.com/mberrishdev/opaline/releases/latest) (about 15 MB),
-unzip it and run `Opaline.exe`. It updates itself.
+unzip it and run `Opaline.exe`. It installs itself for your account (Start menu, starts with Windows) and updates itself.
+To remove it, use **Settings → Apps → Installed apps → Opaline → Uninstall**.
 
 ## What it does
 
